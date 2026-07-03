@@ -32,9 +32,14 @@ pin
 windows-10 
  -->
 
-# WallPin
+<div align="center">
+  <img src="/Images/App.ico" width="80" alt="WallPin Logo">
+  
+  <h1>WallPin</h1>
 
 ### A lightweight command-line utility to change the Windows desktop wallpaper with support for all layout styles (Fill, Fit, Center, etc.) and context menu integration via optional shell scripts.
+
+</div>
 
 ------------------
 
