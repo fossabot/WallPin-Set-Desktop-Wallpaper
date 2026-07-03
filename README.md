@@ -47,7 +47,7 @@ windows-10
 
 **WallPin** lets you set any supported image as your Windows desktop wallpaper. It doesn't run in the background, it doesn't consume resources, and it works completely silently without even showing a console window. If an operation fails or the arguments are invalid, the tool will display a standard Windows message box showing the exact error details.
 
-## 💡 Why WallPin?
+## 💡 Motivation
 
 I decided to develop this application because Windows 10 and Windows 11 has a deeply annoying design flaw: when you use the built-in "Set as desktop background" menu command, Windows forces a global system refresh that resets the scrollbar position in all open File Explorer windows back to the very top.
 
