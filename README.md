@@ -49,7 +49,7 @@ windows-10
 
 ## 💡 Why WallPin?
 
-I decided to develop this application because Windows 10 has a deeply annoying design flaw: when you use the built-in "Set as desktop background" menu command, Windows forces a global system refresh that resets the scrollbar position in all open File Explorer windows back to the very top.
+I decided to develop this application because Windows 10 and Windows 11 has a deeply annoying design flaw: when you use the built-in "Set as desktop background" menu command, Windows forces a global system refresh that resets the scrollbar position in all open File Explorer windows back to the very top.
 
 If you are working inside a directory with thousands of files and you have an image selected near the middle or the bottom, Windows completely breaks your user experience by throwing you back to the top of the list. On top of that, the built-in menu command doesn't even let you choose the wallpaper style (Fill, Fit, Center, etc.).
 
